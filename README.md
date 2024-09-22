@@ -2,23 +2,17 @@
 
 ## Overview
 
-TODO: Write a project description
+In this project, we were given a website with poor accessibility and had to make 
+adjustments to make the website more accessible.
+
+## How to run
+1. Clone or fork my github repository into a local directory.
+2. Open this directory in VSCode.
+3. Open the VSCode Command Palette.
+4. Launch the command "Live Preview: Start Server"
+5. Browse the website!
 
 ## Sources and Credits
 
-TODO: You must credit the sources and authors of any code, libraries, or other
-assets you use in your project. If you leave this section blank, your project
-will be considered in violation of the Academic Honesty policy unless you truly
-created everything from scratch with no outside help. If you need to use a
-source that you cannot credit (e.g. a classmate's work), you must get explicit
-permission from your instructor.
+- W3.org (Table accessibility): [https://www.w3.org/WAI/tutorials/tables/one-header/](https://www.w3.org/WAI/tutorials/tables/one-header/)
 
-A simple bulleted list below is sufficient. For example:
-
-- Bootstrap: https://getbootstrap.com/
-- jQuery: https://jquery.com/
-- Background image: https://unsplash.com/photos/...
-- Sound effects: https://freesound.org/people/...
-- Icons: https://fontawesome.com/
-- Fonts: https://fonts.google.com/
-- etc.
