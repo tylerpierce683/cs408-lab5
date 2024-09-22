@@ -6,6 +6,7 @@ const commentWrapper = document.querySelector('.comment-wrapper');
 commentWrapper.style.display = 'none';
 
 showHideBtn.onclick = function() {
+  console.log("Button pressed")
   let showHideText = showHideBtn.textContent;
   if(showHideText === 'Show comments') {
     showHideBtn.textContent = 'Hide comments';
